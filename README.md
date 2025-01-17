@@ -67,6 +67,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
 
 ## Profile
  - [bannerizer](https://bannerizer.glitch.me/) - Easily crop or resize an image to fit Bluesky's banner size requirements
+ - [Bluesky Unfollowers Tracker](https://bsky.app/profile/bluesky-tracker.bsky.social) - A mobile app to track Bluesky followers & unfollowers in real-time. The ultimate tracking tool!
  - [cleanfollow](https://cleanfollow-bsky.pages.dev/) - Unfollow blocked, deleted, deactivated and suspended accounts
  - [Gentle Unfollow](https://b.cam.fyi/unfollow) - Clean up your bluesky feed until it sparks joy
  - [List Copier](https://unfollow.cam.fyi/lists) - Make a new list from an existing one
